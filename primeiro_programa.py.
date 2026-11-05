@@ -1,4 +1,4 @@
-print("Olá, UFCG")
+print("Olá, UFCG!")
 nome = "Guthy"
-print(Meu nome é" nome)
+print("Meu nome é", nome)
 
