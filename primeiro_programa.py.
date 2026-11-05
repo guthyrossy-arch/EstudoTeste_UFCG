@@ -1,0 +1,4 @@
+print("Olá, UFCG")
+nome = "Guthy"
+print(Meu nome é" nome)
+
